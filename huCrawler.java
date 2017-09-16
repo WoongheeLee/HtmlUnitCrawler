@@ -21,6 +21,7 @@ public class huCrawler {
 	
 	private WebClient webClient = null;
 	
+	// INITIALIZING webClient
 	private void init() {
 		webClient = new WebClient(BrowserVersion.INTERNET_EXPLORER);
 		webClient.setAjaxController(new NicelyResynchronizingAjaxController());
