@@ -1,5 +1,5 @@
 # HtmlUnitCrawler
-HtmlUnit Twitter Crawler with Java 1.8, HtmlUnit 2.7
+HtmlUnit Twitter Crawler with Java 1.8, HtmlUnit 2.1
 
 I refered this link to log in twitter: https://gist.github.com/i88ca/2ebd274587b84f996726 
 
